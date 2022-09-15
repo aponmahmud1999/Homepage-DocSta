@@ -8,7 +8,7 @@ const Hero4 = () => {
      <div className='flex '>
       <div class="hero  rounded-3xl">
         <div class="hero-content flex-row-reverse ">
-          <img src={team} class=" " />
+          <img src={team} class='' />
           <div>
             <h1 class="text-4xl font-bold my-3">Click on your preferred date from the Course Calender</h1>
             <button class="btn btn-primary">View Course Calender</button>

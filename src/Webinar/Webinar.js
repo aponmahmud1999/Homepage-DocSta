@@ -7,18 +7,19 @@ const Webinar = () => {
                 <h1 class='text-center text-3xl font-bold'>Join Our Webinar</h1>
                 <h1 class='text-center text-xl '>Explore our global classroom and learn from our experts</h1>
             </div>
-            <div class='flex  text-white bg-slate-400 mx-20 rounded-2xl'>
-             <p class='bg-fuchsia-900   p-5 rounded-2xl btn-lg'>Upcoming</p>
-             <p class='p-5 btn btn-lg btn-ghost '>Medical</p>
-             <p class='p-5 btn btn-lg btn-ghost '>Buisness</p>
-             <p class='p-5 btn btn-lg btn-ghost '>It</p>
-             <p class='p-5 btn btn-lg btn-ghost '>Software</p>
-             <p class='p-5 btn btn-lg btn-ghost '>Marketing</p>
-             <p class='p-5 btn btn-lg btn-ghost '>finance</p>
-             <p class='p-5 btn btn-lg btn-ghost '>Soft Skill</p>
-             <p class='p-5 btn btn-lg btn-ghost '>Programming</p>
-             <p class='p-5 btn btn-lg btn-ghost '>Language</p>
-             <p class='p-5 btn btn-lg btn-ghost '>Wellness</p>
+            <div class='flex justify-evenly text-white bg-[#656565] ml-20 mr-5'>
+           
+            <button className="btn  bg-[#8013ac]">Medical</button>
+            <button className="btn btn-ghost">Buisness</button>
+            <button className="btn btn-ghost">It</button>
+            <button className="btn btn-ghost">Software</button>
+            <button className="btn btn-ghost">Marketing</button>
+            <button className="btn btn-ghost">Finance</button>
+            <button className="btn btn-ghost">Softskill</button>
+            <button className="btn btn-ghost">Programming</button>
+            <button className="btn btn-ghost">Language</button>
+            <button className="btn btn-ghost">Wellness</button>
+    
             </div>
         </div>
     );

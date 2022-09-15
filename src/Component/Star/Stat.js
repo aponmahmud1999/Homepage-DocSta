@@ -6,7 +6,7 @@ import grad from '../../images/Stat/graduation-cap-.png'
 
 const Stat = () => {
     return (
-        <div class="flex justify-evenly w-full mt-20 bg-blue-300 py-8">
+        <div class="flex justify-evenly w-full mt-20 bg-[#d6efff] py-8">
 
             <div class="flex justify-center items-center space-x-4">
                 <div class="flex-1">

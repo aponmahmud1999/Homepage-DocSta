@@ -14,7 +14,7 @@ const Hero = () => {
             <button className='py-2 px-8 rounded-lg border border-black bg-white font-bold text-3xl text-purple-500'>PALS</button>
           </div>
           <h1 className='text-2xl font-bold'>with 2 yrs international certificate</h1>
-          <button className='rounded-full bg-purple-700 px-7 py-1'>Join Now</button>
+          <button className='rounded-full bg-[#7f13ab] px-7 py-2 text-white mt-3'>Join Now</button>
           </div>
         <div> <img src={doctor} class="max-w-[700px]" />
 

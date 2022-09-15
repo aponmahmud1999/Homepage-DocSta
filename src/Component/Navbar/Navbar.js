@@ -12,7 +12,7 @@ const Navbar = () => {
         <div className='flex items-center ml-5'>
           <h4>Categories</h4>
           <div class="form-control ml-5">
-            <input type="text" placeholder="Search" class="input input-bordered w-[45rem] rounded-full" />
+            <input type="text" placeholder="Search" class="input input-bordered w-[35rem] rounded-full" />
           </div>
         </div>
 
